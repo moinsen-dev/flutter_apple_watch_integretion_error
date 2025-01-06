@@ -39,37 +39,37 @@ Launching lib/main.dart on iPhone 16 Pro Max in debug mode...
 Xcode build done.                                           14.7s
 Failed to build iOS app
 Swift Compiler Error (Xcode): 'View' is only available in iOS 13.0 or newer
-/Users/doedel/work/moinsen/apps/test/apple_watch/ios/RunnerWatch%20Watch%20App/ContentView.swift:10:19
+/Users/udi/work/moinsen/apps/test/apple_watch/ios/RunnerWatch%20Watch%20App/ContentView.swift:10:19
 
 Swift Compiler Error (Xcode): 'Preview(_:body:)' is only available in iOS 13.0 or newer
-/Users/doedel/work/moinsen/apps/test/apple_watch/ios/RunnerWatch%20Watch%20App/ContentView.swift:21:1
+/Users/udi/work/moinsen/apps/test/apple_watch/ios/RunnerWatch%20Watch%20App/ContentView.swift:21:1
 
 Swift Compiler Error (Xcode): 'main()' is only available in iOS 14.0 or newer
-/Users/doedel/work/moinsen/apps/test/apple_watch/ios/RunnerWatch%20Watch%20App/RunnerWatchApp.swift:9:0
+/Users/udi/work/moinsen/apps/test/apple_watch/ios/RunnerWatch%20Watch%20App/RunnerWatchApp.swift:9:0
 
 Swift Compiler Error (Xcode): 'Scene' is only available in iOS 14.0 or newer
-/Users/doedel/work/moinsen/apps/test/apple_watch/ios/RunnerWatch%20Watch%20App/RunnerWatchApp.swift:11:19
+/Users/udi/work/moinsen/apps/test/apple_watch/ios/RunnerWatch%20Watch%20App/RunnerWatchApp.swift:11:19
 
 Swift Compiler Error (Xcode): 'VStack' is only available in iOS 13.0 or newer
-/Users/doedel/work/moinsen/apps/test/apple_watch/ios/RunnerWatch%20Watch%20App/ContentView.swift:11:8
+/Users/udi/work/moinsen/apps/test/apple_watch/ios/RunnerWatch%20Watch%20App/ContentView.swift:11:8
 
 Swift Compiler Error (Xcode): 'Image' is only available in iOS 13.0 or newer
-/Users/doedel/work/moinsen/apps/test/apple_watch/ios/RunnerWatch%20Watch%20App/ContentView.swift:12:12
+/Users/udi/work/moinsen/apps/test/apple_watch/ios/RunnerWatch%20Watch%20App/ContentView.swift:12:12
 
 Swift Compiler Error (Xcode): 'init(systemName:)' is only available in iOS 13.0 or newer
-/Users/doedel/work/moinsen/apps/test/apple_watch/ios/RunnerWatch%20Watch%20App/ContentView.swift:12:12
+/Users/udi/work/moinsen/apps/test/apple_watch/ios/RunnerWatch%20Watch%20App/ContentView.swift:12:12
 
 Swift Compiler Error (Xcode): 'imageScale' is only available in iOS 13.0 or newer
-/Users/doedel/work/moinsen/apps/test/apple_watch/ios/RunnerWatch%20Watch%20App/ContentView.swift:13:17
+/Users/udi/work/moinsen/apps/test/apple_watch/ios/RunnerWatch%20Watch%20App/ContentView.swift:13:17
 
 Swift Compiler Error (Xcode): 'foregroundStyle' is only available in iOS 15.0 or newer
-/Users/doedel/work/moinsen/apps/test/apple_watch/ios/RunnerWatch%20Watch%20App/ContentView.swift:14:17
+/Users/udi/work/moinsen/apps/test/apple_watch/ios/RunnerWatch%20Watch%20App/ContentView.swift:14:17
 
 Swift Compiler Error (Xcode): 'tint' is only available in iOS 15.0 or newer
-/Users/doedel/work/moinsen/apps/test/apple_watch/ios/RunnerWatch%20Watch%20App/ContentView.swift:14:34
+/Users/udi/work/moinsen/apps/test/apple_watch/ios/RunnerWatch%20Watch%20App/ContentView.swift:14:34
 
 Swift Compiler Error (Xcode): 'Text' is only available in iOS 13.0 or newer
-/Users/doedel/work/moinsen/apps/test/apple_watch/ios/RunnerWatch%20Watch%20App/ContentView.swift:15:12
+/Users/udi/work/moinsen/apps/test/apple_watch/ios/RunnerWatch%20Watch%20App/ContentView.swift:15:12
 
 ```
 
